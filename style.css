@@ -107,7 +107,7 @@ nav {
 }
 
 .logo-image {
-  
+
   width: 120px;  /* Adjust size as needed */
   height: 30px; /* Maintain aspect ratio */
   margin-right: 10px;
@@ -137,6 +137,7 @@ nav {
   color: #f4a261; /* Orange color from your previous CSS */
   position: relative;
 }
+
 
 .link.active a::after {
   content: '';
